@@ -28,6 +28,8 @@
     float: left;
     font-size: 1.7em;
     letter-spacing: -1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 #home-container {
@@ -50,4 +52,8 @@ body {
 #page-content {
     flex: 1 0 auto;
     background-color: lightgray;
+}
+
+#footer_link {
+    text-decoration: none;
 }
